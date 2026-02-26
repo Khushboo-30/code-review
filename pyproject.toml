@@ -1,0 +1,8 @@
+[project]
+name = "neural-code-classifier"
+version = "0.1.0"
+description = "Streamlit-based Neural Code Vulnerability Classifier"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
